@@ -4,7 +4,7 @@
 //   const options = {
 //     method: "GET",
 //     headers: {
-//       "X-RapidAPI-Key": "d48f859606msh4dc49f40f876024p19e57djsn18c2cfb39bb0",
+//       "X-RapidAPI-Key": "//Enter your API KEY",
 //       "X-RapidAPI-Host": "weather-by-api-ninjas.p.rapidapi.com",
 //     },
 //   };
@@ -49,7 +49,7 @@
 //   const options = {
 //     method: "GET",
 //     headers: {
-//       "X-RapidAPI-Key": "d48f859606msh4dc49f40f876024p19e57djsn18c2cfb39bb0",
+//       "X-RapidAPI-Key": "Enter your api key",
 //       "X-RapidAPI-Host": "weather-by-api-ninjas.p.rapidapi.com",
 //     },
 //   };
@@ -98,7 +98,7 @@ async function fetchData(city) {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "d48f859606msh4dc49f40f876024p19e57djsn18c2cfb39bb0",
+      "X-RapidAPI-Key": //enter your api key,
       "X-RapidAPI-Host": "weather-by-api-ninjas.p.rapidapi.com",
     },
   };
